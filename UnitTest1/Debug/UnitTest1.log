@@ -1,0 +1,8 @@
+﻿  UnitTest1.cpp
+C:\Users\Aquatic\source\repos\11.1\11.1\11.1.cpp(86,12): warning C4101: 'minplus': unreferenced local variable
+C:\Users\Aquatic\source\repos\11.1\11.1\11.1.cpp(86,21): warning C4101: 'maxnegative': unreferenced local variable
+C:\Users\Aquatic\source\repos\11.1\UnitTest1\UnitTest1.cpp(21,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Aquatic\source\repos\11.1\11.1\11.1.cpp(47): warning C4715: 'minpluus': not all control paths return a value
+C:\Users\Aquatic\source\repos\11.1\11.1\11.1.cpp(66): warning C4715: 'maxminus': not all control paths return a value
+     Creating library C:\Users\Aquatic\source\repos\11.1\Debug\UnitTest1.lib and object C:\Users\Aquatic\source\repos\11.1\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Aquatic\source\repos\11.1\Debug\UnitTest1.dll
